@@ -6,4 +6,8 @@
 - appeal is that you can reach a large audience with a product
 - will have a similar algorithm to tiktok/instagram for popularity of content
 - app or program
-##
+
+
+## test header
+
+- test bullet point
