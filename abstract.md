@@ -107,6 +107,25 @@ Possible Solutions:
 - [Marketing lessons learned from Robinhood, the unicorn rebuilding America’s financial system](https://rkmac.medium.com/marketing-lessons-learned-from-robinhood-the-unicorn-rebuilding-americas-financial-system-b097f0df561)
 - [What is Marketing?](https://learn.robinhood.com/articles/74IOxhnIOm754n4ML7bGY8/what-is-marketing/)
 - [This is How the Instagram Algorithm Works in 2021](https://later.com/blog/how-instagram-algorithm-works/)
+- [Best Practices for a Successful Development Project](https://resources.qt.io/development-topic-getting-started-with-qt/white-paper-best-practices-for-a-successful-development-project)
 
 ## Recovered Research 
 
+-
+
+---
+
+## If We use Qt (Open Source Legal Obligations)
+
+- The majority of the Qt modules are available under the LGPL v3 and GPL v3 open source license. When developing under this license your obligations are to:
+    - Provide a re-linking mechanism for Qt libraries
+    - Provide a license copy & explicitly acknowledge Qt use
+    - Make a Qt source code copy available for customers
+    - Accept that Qt source code modifications are non-proprietary
+    - Make “open” consumer devices
+    - Accept Digital Rights Management terms, please see the GPL FAQ
+    - Take special consideration when attempting to enforce software patents FAQ
+
+- [Legal Obligations](https://www.qt.io/licensing/open-source-lgpl-obligations)
+
+![Legal Obligations](Resources/obligations.png)
