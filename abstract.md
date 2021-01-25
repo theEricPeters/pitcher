@@ -24,7 +24,7 @@ an app proof of concept for the time being
 
 - emulate tiktok in content flow 
 
-- Entrepeneurs will create pitches for their company
+- Entrepreneurs will create pitches for their company
 
 ---
 
@@ -34,7 +34,7 @@ an app proof of concept for the time being
 
 - Youtube ads
 
-- Target audience (Young entrepeneurs with ideas and enthusiam)
+- Target audience (Young entrepreneurs with ideas and enthusiasm)
 
 ---
 
@@ -52,7 +52,7 @@ Possible Solutions:
     - Economics Professor Email
     - Can be private companies
     
-- Tra+nsferring monetary ownership of the company (Pitch) to investors on the app
+- Transferring monetary ownership of the company (Pitch) to investors on the app
 
 - Transferring the company (pitch) from the app to an official stock market (NASDAQ)
 
@@ -83,14 +83,14 @@ Possible Solutions:
 
 ## Analytics
 
-- Calculate ownership of company based on evaluated price of stock for an entrepeneur's pitch calculated from the total monetary input from the app
+- Calculate ownership of company based on evaluated price of stock for an entrepreneur's pitch calculated from the total monetary input from the app
 
 - Have an in-app bank account like Venmo
     -Investors will transfer money from a checking account/PayPal into a in-app funds account
 
-- Possible Different phases of a entrepeneur's pitch:
+- Possible Different phases of a entrepreneur's pitch:
     - Initial investment phase (First Impression Phase): 
-        - During this phase the price of entrepeneur's pitch is determined by total monetary input in the First Impression Phase this determines
+        - During this phase the price of entrepreneur's pitch is determined by total monetary input in the First Impression Phase this determines
 
 - Another option for the ownership and equity of an idea
     - Calculating equity of company based on the investment goal
