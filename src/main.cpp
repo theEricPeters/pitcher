@@ -1,10 +1,20 @@
-/// property of eric peters (c) 2021
+/**
+ *        @file: main.cpp
+ *      @author: Eric Peters
+ *        @date: January 26, 2021
+ *       @brief: Main file for Pitcher.
+ */
 
 #include <iostream>
+#include <iomanip>
 #include <cstdlib>
 using namespace std;
 
-int main(int argc, char *argv[])
-{
-	cout << "Hello, world!" << endl;
-}
+///function prototypes
+
+int main(int argc, char const *argv[]) {
+
+	cout << "HELLO WORLD" << endl;
+
+	return 0;
+}// main
